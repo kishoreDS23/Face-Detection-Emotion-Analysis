@@ -5,3 +5,6 @@ BlazeFace: A lightweight, real-time face detection model optimized for mobile an
 WebRTC: Browser API for accessing camera and microphone
 HTML5 Canvas: For drawing face boundaries and landmarks
 JavaScript Animation: Using `requestAnimationFrame` for smooth real-time processing
+
+In this project, I use HTML, CSS, and JavaScript. These are the programming languages I used.
+
